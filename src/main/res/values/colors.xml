@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E52328</color>
+    <color name="colorPrimaryDark">#81161A</color>
+    <color name="colorAccent">#EDEEEF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="gold">#FFC107</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightGray">#B3B3B3</color>
+    <color name="about">#009688</color>
+    <color name="privacy">#F44336</color>
+    <color name="review">#4CAF50</color>
+    <color name="share">#00BCD4</color>
+</resources>
